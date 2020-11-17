@@ -1,0 +1,8 @@
+.feynman__portrait {
+  display: flex;
+  position: absolute;
+  background-repeat: no-repeat;
+  background-size: 867px 637px;
+  bottom: 0;
+  left: 0;
+}
