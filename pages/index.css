@@ -115,6 +115,12 @@
 @import url(../blocks/khan/__book-picture/khan__book-pucture.css);
 
 
+/* kaufman */
+
+@import url(../blocks/kaufman/kaufman.css);
+@import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
+
+
 /* footer */
 
 @import url(../blocks/footer/footer.css);
