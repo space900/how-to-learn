@@ -1,0 +1,15 @@
+.resources__logo {
+  width: 270px;
+  height: 38px;
+}
+  
+.resources__logo:hover {
+  transition: 2s;
+  -webkit-transform: translateX(-6px);
+  transform: translateX(-6px);
+  opacity: 0.5;
+}
+  
+.resources__logo:not(:hover) {
+  transition: 1s;
+}
