@@ -7,7 +7,7 @@
 }
   
 .khan__buy-link:hover {
-  border-radius: 2px; 
+  border-radius: 2px;
   transition: 1.5s;
   opacity: 0.5;
 }
